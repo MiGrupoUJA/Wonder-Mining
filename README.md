@@ -3,3 +3,5 @@ Código del proyecto Wonder Mining y archivos con resultados de experimentación
 
 ## Proyecto Wonder-Mining
 El objetivo de este hipotético proyecto es desarrollar un método universal de minería de datos.
+
+En el archivo ´parametros.txt´ se configuran los parámetros de funcionamiento del método.
