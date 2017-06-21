@@ -6,3 +6,4 @@ El objetivo de este hipotético proyecto es desarrollar un método universal de 
 
 En el archivo ´parametros.txt´ se configuran los parámetros de funcionamiento del método. Los parámetros disponibles son:
 
+Texto añadido al archivo
